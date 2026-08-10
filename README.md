@@ -11,7 +11,7 @@ A production-ready Spring Boot backend for Safaricom's M-Pesa Daraja APIs. Cover
 
 ## Architecture
 
-![Architecture Overview](docs/architecture.png)
+<img width="1672" height="941" alt="2912967e-c92c-4bf5-a350-e21826673f47" src="https://github.com/user-attachments/assets/7bf28824-2f9a-4a31-9c33-5ee9bd25ae43" />
 
 
 ## System Flow & Schema
