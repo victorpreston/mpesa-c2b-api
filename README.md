@@ -16,7 +16,7 @@ A production-ready Spring Boot backend for Safaricom's M-Pesa Daraja APIs. Cover
 
 ## System Flow & Schema
 
-![System Flow and Database Schema](docs/achitecture-flow.png)
+![System Flow and Database Schema](docs/architecture-flow.png)
 
 
 ## API Endpoints
